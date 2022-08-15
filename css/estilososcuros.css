@@ -139,6 +139,7 @@ label input{
     outline: none;
     font-size: 14pt;
     transition: background-color 0.2s ,border 0.2s, box-shadow 0.2s;
+    color: #161717;
 }
 .section-inputs label input{
     width: 80%;
